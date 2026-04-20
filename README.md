@@ -1,0 +1,1 @@
+Code for data handling and creating plots for analysis/visualisation of Higher Education Statistics Agency (HESA) demographic data regarding research active staff in the UK and UK Research and Innovation (UKRI) fellowship application/awardees data. 
